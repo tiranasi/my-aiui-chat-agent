@@ -1,0 +1,1 @@
+{"name":"skymate-aiui-agent-v1402-robustness","displayName":"SkyMate v14.0.2 Robustness","version":"14.0.2-rc.1","entry":"pages/index/index","pages":["pages/index/index"],"viewport":{"width":480,"height":320},"permissions":["network","microphone","audio"],"description":"SkyMate robustness convergence build with stale-callback and async lifecycle guards"}
